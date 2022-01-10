@@ -10,9 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^13.5.1",
-    "discord.js-commando": "^0.12.3",
-    "events-js": "^1.0.1",
+    "discord.js": "^12.5.3"
+    "discord.js-commando": "^0.12.3"
     "fs": "0.0.1-security",
     "weather-js": "^2.0.0",
     "weather.js": "^0.1.0"
